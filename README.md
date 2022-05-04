@@ -2,6 +2,9 @@
 
 The task is to create a project tracker application using Bootstrap, jQuery, jQueryUI, Moment, and Google Fonts. 
 
+Overview of the Project Tracker:-
+
+![alt text](portfolio-06.png)
 
 ### Task 1: HTML Build
 
